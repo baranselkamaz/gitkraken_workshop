@@ -11,6 +11,8 @@ Simply fire up RStudio for trying out your R code, or Spyder for your Python cod
 
 ## Getting help
 
+For help with Git, google "git".
+
 ## Contributors
 Contributions and references are included in the source code files.
 
